@@ -1,0 +1,21 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.time {
+  font-size: small;
+  margin: 20px;
+}
+
+.img1 {
+  height: 30px;
+  width: 30px;
+}
+
+.delete {
+  margin-left: auto;
+  background-color: transparent;
+  border-width: 0px;
+}
